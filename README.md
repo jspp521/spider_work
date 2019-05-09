@@ -30,8 +30,6 @@
 
 ![area](https://github.com/AndrewAndrea/spider_work/blob/master/images/%E6%97%A0%E6%A0%87%E9%A2%983.png)
 
-![area](https://github.com/AndrewAndrea/spider_work/blob/master/images/%E6%97%A0%E6%A0%87%E9%A2%983.png)
-
 ![select](https://github.com/AndrewAndrea/spider_work/blob/master/images/%E6%97%A0%E6%A0%87%E9%A2%984.png)
 
 
