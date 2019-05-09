@@ -22,4 +22,16 @@
 
 这一部分的代码没有提交，后续会提交。
 
+![edu](https://github.com/AndrewAndrea/spider_work/blob/master/images/%E6%97%A0%E6%A0%87%E9%A2%98.png)
+
+![wordcloud](https://github.com/AndrewAndrea/spider_work/blob/master/images/%E6%97%A0%E6%A0%87%E9%A2%981.png)
+
+![exp](https://github.com/AndrewAndrea/spider_work/blob/master/images/%E6%97%A0%E6%A0%87%E9%A2%982.png)
+
+![area](https://github.com/AndrewAndrea/spider_work/blob/master/images/%E6%97%A0%E6%A0%87%E9%A2%983.png)
+
+![area](https://github.com/AndrewAndrea/spider_work/blob/master/images/%E6%97%A0%E6%A0%87%E9%A2%983.png)
+
+![select](https://github.com/AndrewAndrea/spider_work/blob/master/images/%E6%97%A0%E6%A0%87%E9%A2%984.png)
+
 
