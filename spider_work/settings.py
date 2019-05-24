@@ -98,7 +98,7 @@ HTTPERROR_ALLOWED_CODES = [405]
 SCHEDULER = "scrapy_redis.scheduler.Scheduler"
 DUPEFILTER_CLASS = "scrapy_redis.dupefilter.RFPDupeFilter"
 # 子爬虫
-# REDIS_URL = 'redis://root:wjzj1217@123.207.61.85:6488'
+# REDIS_URL = 'redis://root:pass@127.0.0.1:6379'
 SCHEDULER_PERSIST = True
 
 FEED_EXPORT_ENCODING = 'utf-8'
